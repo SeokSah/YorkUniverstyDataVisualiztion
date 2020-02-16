@@ -4,3 +4,5 @@ Using python I did some exploratory data analysis and created different plots to
 All data analysis and visualization was done in python. Infographics were created in GIMP. All data was gathered from the York University Quck Facts page: https://oipa.info.yorku.ca/data-hub/quick-facts/quick-facts-undergraduate-headcount/ 
 
 See below for some examples of infographics created for the project:
+
+![alt text](https://github.com/SeokSah/YorkUniverstyDataVisualiztion/blob/master/ScienceEngineerGenderPlots.png)
